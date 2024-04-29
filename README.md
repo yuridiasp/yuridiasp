@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Yuri</h1>
+<h1 align="center">Olá 👋, eu sou Yuri Dias Pereira Gomes</h1>
 <h3 align="center">Sou graduando em Engenharia de Computação pela Universidade Federal de Sergipe e apaixonado por programação.</h3>
 
 - 🌱 No momento estou estudando **Machine Learning**
